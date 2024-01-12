@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>이메일 중복 확인</title>
+</head>
+<body>
+    <form action="emailConfirm" method="post">
+        Email : <input type="email" name="email">
+        <button type="submit">이메일 중복 확인</button><br>
+    </form>
+    <span th:text="${msg}"></span>
+</body>
+</html>

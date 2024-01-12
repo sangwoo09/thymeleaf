@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <title>현장정보추가</title>
+</head>
+<body>
+    <div class="container">
+        <form th:action="@{reg}" method="post">
+            <input type="hidden" name="userId" th:value="${session.sessionUserId}">
+            <label>CompanyName*</label>
+            <input type="text"  class="form-control" name="companyName" required>
+            <label>Station*</label>
+            <input type="text"  class="form-control" name="station" required>
+            <label>ProjectName*</label>
+            <input type="text"  class="form-control" name="projectName" required>
+            <label>StartDate*</label>
+            <input type="date"  class="form-control" name="startDate" required>
+            <label>endDate</label>
+            <input type="date"  class="form-control" name="endDate">
+            <label>Status</label><br>
+            <input type="radio"  class="form-check-input" name="status" value="0" required>재직중
+            <input type="radio"  class="form-check-input" name="status" value="1" required>휴직중
+            <input type="radio"  class="form-check-input" name="status" value="2" required>현장종료<br>
+            <button type="submit" class="btn btn-warning">현장정보등록</button>
+            <a class="btn btn-danger" th:href="@{/main}">돌아가기</a>
+        </form>
+        <span th:text="${msg}"></span>
+    </div>
+</body>
+</html>
