@@ -3,7 +3,7 @@
 </p>
 # 프로젝트 소개
 ##　使用した言語
-<p align='center'>
+<div align='center'>
     <img src="https://img.shields.io/badge/JAVA%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lombok%20-FF6A00.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/JPA%20-003DFF.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/Poi%20-00005F.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
-</p> 
+</div> 
 *   Donut Vertical Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
