@@ -10,13 +10,4 @@
     <img src="https://img.shields.io/badge/Poi%20-00005F.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats)
-
-Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra\&repo=github-readme-stats\&show_owner=true)
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
-
-Use [show\_owner](#gist-card-exclusive-options) query option to include the gist's owner username
-
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
