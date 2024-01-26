@@ -21,8 +21,11 @@
 - 会員登録機能
 - 現場情報入力機能
 - リスト機能
+- 修正の機能
+- 削除の機能
 
 ## 画面機能
+- 削除の機能
 *   Donut Vertical Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
