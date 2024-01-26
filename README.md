@@ -29,7 +29,11 @@
 <br>
 
 ## 画面機能
-- 削除の機能
+- ログイン画面
+- 会員登録画面
+- 現場情報の入力画面
+- リストの画面
+- 修正の画面
 *   Donut Vertical Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
