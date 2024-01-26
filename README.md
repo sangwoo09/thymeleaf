@@ -4,7 +4,8 @@
 
 ## プロジェクト　紹介
 - 社員情報と
-##　使用した言語
+
+## 使用した言語
 <p align='left'>
     <img src="https://img.shields.io/badge/JAVA%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lombok%20-FF6A00.svg?&style=for-the-badge&&logoColor=white"/>
