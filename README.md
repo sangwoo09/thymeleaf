@@ -3,7 +3,8 @@
 </p>
 
 ## プロジェクト　紹介
-- 自分が勤務したところを入力できます。
+- このプロジェクトはPoiを使用するために社員管理システムを開発しました。
+- リストのリンクを押したら詳細画面で自分が勤務したところを入力して管理者だけ確認するように作成しました。
 
 <br>
 
@@ -41,8 +42,4 @@
 
 ## 組織図
 ![社員管理](https://github.com/sangwoo09/thymeleaf/assets/149740298/415ce1c6-b6ae-4457-ba03-18e4f95fa238)
-
-*   Donut Vertical Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
