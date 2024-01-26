@@ -10,4 +10,7 @@
     <img src="https://img.shields.io/badge/Poi%20-00005F.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+*   Donut Vertical Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
