@@ -5,6 +5,8 @@
 ## プロジェクト　紹介
 - 自分が勤務したところを入力できます。
 
+<br>
+
 ## 使用した言語
 <p align='left'>
     <img src="https://img.shields.io/badge/JAVA%20-DD0700.svg?&style=for-the-badge&&logoColor=white"/>
@@ -34,6 +36,9 @@
 - 現場情報の入力画面
 - リストの画面
 - 修正の画面
+
+![社員管理](https://github.com/sangwoo09/thymeleaf/assets/149740298/415ce1c6-b6ae-4457-ba03-18e4f95fa238)
+
 *   Donut Vertical Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
