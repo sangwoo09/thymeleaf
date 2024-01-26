@@ -37,6 +37,9 @@
 - リストの画面
 - 修正の画面
 
+<br>
+
+## 組織図
 ![社員管理](https://github.com/sangwoo09/thymeleaf/assets/149740298/415ce1c6-b6ae-4457-ba03-18e4f95fa238)
 
 *   Donut Vertical Chart layout
