@@ -3,7 +3,7 @@
 </p>
 
 ## プロジェクト　紹介
-- 社員情報と
+- 自分が勤務したところを入力できます。
 
 ## 使用した言語
 <p align='left'>
@@ -15,6 +15,14 @@
     <img src="https://img.shields.io/badge/Poi%20-00005F.svg?&style=for-the-badge&&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
+
+## 機能実装
+- ログイン機能
+- 会員登録機能
+- 現場情報入力機能
+- リスト機能
+
+## 画面機能
 *   Donut Vertical Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
