@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/MySQL%20-5C1F87.svg?&style=for-the-badge&&logoColor=white"/>
 </p> 
 
+<br>
+
 ## 機能実装
 - ログイン機能
 - 会員登録機能
@@ -23,6 +25,8 @@
 - リスト機能
 - 修正の機能
 - 削除の機能
+
+<br>
 
 ## 画面機能
 - 削除の機能
