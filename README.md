@@ -43,6 +43,8 @@
 ## 組織図
 ![社員管理](https://github.com/sangwoo09/thymeleaf/assets/149740298/415ce1c6-b6ae-4457-ba03-18e4f95fa238)
 
+https://github.com/sangwoo09/thymeleaf/assets/149740298/3bb2eee2-5c7e-44d0-b88c-52b7bcbdd46d
+
 
 
 
